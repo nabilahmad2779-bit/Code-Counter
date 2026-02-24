@@ -1,0 +1,5 @@
+{
+  "name": "Code Counter",
+  "description": "A premium web-based code counting tool that analyzes local directories using the File System Access API.",
+  "requestFramePermissions": []
+}
