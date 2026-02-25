@@ -1,0 +1,5 @@
+{
+  "name": "Visual Bookmark Manager",
+  "description": "A visual grid for saved links, categorized by tags instead of folders. Automatically fetches metadata for rich previews.",
+  "requestFramePermissions": []
+}
